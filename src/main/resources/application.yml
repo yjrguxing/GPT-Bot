@@ -1,0 +1,8 @@
+forest:
+  connect-timeout: 60000
+  read-timeout: 60000
+  variables:
+    apiKey: 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
+    model: turbo-3.5
+    maxTokens: 50
+    temperature: 0.5
